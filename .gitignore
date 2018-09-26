@@ -1,0 +1,9 @@
+/.idea/*
+*.xml
+*.pyc
+*.RData
+*.Rhistory
+.Rproj.user
+.ipynb_checkpoints
+.DS_Store
+
