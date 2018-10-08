@@ -1,5 +1,5 @@
 # Multi-predicate classification datasets
-This repository contains the datasets for the multi-predicate classification problem. In each dataset folder, you can find the data, description of the datasets as well as python scripts for data preparation and analyses. <br/>
+This repository contains datasets for the multi-predicate classification problem. In each dataset folder, you can find the data, description of the datasets as well as python scripts for data preparation and analyses. <br/>
 
 ### Datasets:
 1)<b>ohsumed-based screening dataset</b>: 34k Two-predicate screening datasets presented by medical abstracts on different disease categories. <br/>
