@@ -3,6 +3,7 @@ This repository contains datasets for the multi-predicate classification problem
 
 ### Datasets:
 1)<b>ohsumed-based screening dataset</b>: 34k Two-predicate screening datasets presented by medical abstracts on different disease categories. <br/>
-2)<b>loneliness-slr-2018</b>: The dataset includes 585 abstracts of papers annotated by an expert for 2 predicates. The papers are from social informatics domain and used as a part of the systematic literature review (SLR). <br/>
-3)<b> amazon_sentiment</b>: 1k-100k dataset on Amazon product reviews, where predicats are 1) Product category 2) Sentiment of the review.
+2)<b>loneliness-slr-2018</b>: 
+The dataset includes 585 abstracts of papers annotated by an expert for 2 predicates. The papers are from social informatics domain and used as a part of the systematic literature review (SLR). <br/>
+3)<b> amazon-sentiment-dataset</b>: 1k-100k dataset on Amazon product reviews, where predicats are 1) Product category 2) Sentiment of the review.
 
