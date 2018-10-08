@@ -11,3 +11,11 @@ Proportion of IN-scope reviews = 0.05 <br/>
 *Selectivity is the proportion of documents that satisfy a predicate.
 
 We keep the original properties of the dataset by sampling items according to the real proportion of categories and sentiment. One can create its own datasets of different predicates and size by running preprocessing.ipynb and specifying the only category, sentiment, and the size of the dataset.
+
+
+<div style="text-align: left"> <b>Categories of the amazon products and counts: </b> </div>
+<img src="img/table_counts.png"
+     alt="Categories available and some statistics"
+     style="float: left; margin-right: 10px;"
+     width="1000"
+     align="left"/>
