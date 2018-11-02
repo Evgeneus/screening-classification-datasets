@@ -11,6 +11,7 @@ The datasets are highly imbalanced. For the (C14)+(C23) dataset, 1750 positives 
 - Selectivity of (C14): 0.18
 - Selectivity of (C04): 0.18
 - Selectivity of (C12): 0.07
+- Selectivity of (C23): 0.28
 
 *Selectivity is the proportion of documents to which a category(predicate) applies.
 
